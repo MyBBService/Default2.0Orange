@@ -7,6 +7,7 @@
 		<logo><![CDATA[default20orange/logo.png]]></logo>
 		<tablespace><![CDATA[6]]></tablespace>
 		<borderwidth><![CDATA[0]]></borderwidth>
+		<dlcid><![CDATA[12]]></dlcid>
 	</properties>
 	<stylesheets>
 		<stylesheet name="global.css" version="1608"><![CDATA[body {
